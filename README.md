@@ -45,7 +45,6 @@ Open `.env` and add your Groq API key:
 GROQ_API_KEY=gsk_your_groq_api_key_here
 GROQ_MODEL=qwen/qwen3.8-27b
 ```
-*(Get a free API key at [console.groq.com/keys](https://console.groq.com/keys))*
 
 ### 5. Run the application
 ```bash
