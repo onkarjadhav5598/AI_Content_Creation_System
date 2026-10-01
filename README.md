@@ -1,6 +1,6 @@
 # AI-Powered Content Creation and Analysis System
 
-A modern AI Studio built with Flask and Groq LLMs (`qwen/qwen3.8-27b`), featuring a ChatGPT/Gemini-style conversational interface.
+A modern AI Studio built with Flask and Groq LLMs, featuring a ChatGPT/Gemini-style conversational interface.
 
 ## ✨ Features
 
