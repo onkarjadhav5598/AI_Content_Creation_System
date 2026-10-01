@@ -52,3 +52,6 @@ GROQ_MODEL=qwen/qwen3.8-27b
 python app.py
 ```
 Open [http://localhost:5000](http://localhost:5000) in your browser.
+
+
+thank you :)
